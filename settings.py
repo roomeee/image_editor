@@ -1,0 +1,17 @@
+ROTATE_DEFAULT = 0
+ZOOM_DEFAULT = 0
+FLIP_OPTIONS = ['None', 'X', 'Y', 'Both']
+BLUR_DEFAULT = 0
+CONTRAST_DEFAULT = 0
+EFFECT_OPTIONS = ['None', 'Emboss', 'Fine edges', 'Contour', 'Edge enhance']
+BRIGHTNESS_DEFAULT = 1
+VIBRANCE_DEFAULT = 1
+GRAYSCALE_DEFAULT = False
+INVERT_DEFAULT = False
+
+WHITE = '#d7dfe0'
+GREY = '#aba4a4'
+BLUE = '#7455ed'
+DARK = '#6b6868'
+RED = '#eb2a2d'
+BG = '#281e40'
